@@ -6,7 +6,7 @@ In addition, the written text is translated on realtime to chosen target languag
 
 ## Demo page
 The first language supported to virtual keyboard is Korean.
-[Click here to write some korean](http://fill-lima.github.io/virtual-keyboard-with-angular)
+[Click here to write some korean](http://limabrko.github.io/virtual-keyboard-with-angular)
 
 ## How to install
 
